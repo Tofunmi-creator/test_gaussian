@@ -1,3 +1,3 @@
 Copyright 2025 Oluwatofunmi Caulcrick
 
-Testing Package for gaussian class
+Testing Package
