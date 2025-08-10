@@ -1,7 +1,7 @@
 import math
 import matplotlib.pyplot as plt
 from to_distributions.generaldistribution import Distribution
-
+#Comment in gaussian
 class Gaussian(Distribution):
 	""" Gaussian distribution class for calculating and 
 	visualizing a Gaussian distribution.
