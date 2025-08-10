@@ -4,5 +4,7 @@ from to_distributions.gaussiandistribution import Gaussian
 #Third feature
 #Fourth feature
 #Fifth feature
+#Sixth feature
+#Seventh feature
 gaussian_one = Gaussian(22, 2)
 print(gaussian_one.mean)
