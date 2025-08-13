@@ -8,5 +8,6 @@ from to_distributions.gaussiandistribution import Gaussian
 #Seventh feature
 #Eight feature
 #Ninth feature
+#Tenth feature
 gaussian_one = Gaussian(22, 2)
 print(gaussian_one.mean)
